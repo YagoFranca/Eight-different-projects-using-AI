@@ -93,5 +93,5 @@ Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e dis
 ## 🙋‍♂️ Autor
 
 Desenvolvido por **Yago de Souza França**  
-📧 yago.franca@victumservices.com.br  
+📧 yago_souza00@hotmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/yago-franca/)
